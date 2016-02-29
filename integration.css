@@ -1,0 +1,175 @@
+body {
+	margin:0;
+}
+
+.surheader{
+ background-color: #3a5e78;
+ padding: 1% 5% 0.5% 8%;
+}
+.number
+{
+ color: white;
+}
+
+li
+{
+ list-style:none;
+ display: inline;
+}
+.middle
+{
+ margin-right: 3%;
+}
+.last
+{
+ margin-right: 0;
+}
+.li
+{
+ width: 60%;
+ float: right;
+ margin-top: 30px;
+ margin-right: -90px;
+ font-family: "Bitstream Charter"
+
+}
+.mozilla
+{
+ display: inline;
+ width: 10em;
+ margin-top:10px;
+}
+div{
+ padding: inherit;
+}
+.number
+{
+ color: black;
+}
+.header
+{
+ padding: 0 5% 0 8%;
+ box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
+}
+.our_story{
+	padding: 8%;
+
+}
+h2{
+ font-family: "Bitstream Charter";
+ font-size: 50px;
+ color: #42ADD7;
+}
+.tirer{
+ color: #EC810E;
+ font-weight: bolder;
+ font-size: 30px;
+ margin-top: -50px;
+}
+p
+{
+ width: 40%;
+ font-family: "Bitstream Charter";
+ color: grey;
+}
+.gens
+{
+ float: right;
+ margin-top: -20%;    
+}
+.our_team{
+ padding: 8%;
+ background-color: #3a5e78;
+ text-align: center;
+}
+.white{
+  font-family: "Bitstream Charter";
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+.tirer2{
+  color: #EC810E;
+  font-weight: bolder;
+  margin-top: -3%;
+  font-size: 30px;
+  text-align: center;
+  margin-left: 315px;
+}
+.p_our_team
+{
+  color: #d9d9d9;
+  text-align: center;
+  margin-left: 315px;
+}
+#team1
+{
+  float: left;
+  margin-left: 20%;
+}
+#team2
+{
+  margin-left: 7%;
+  margin-right: 7%;
+}
+#team3
+{
+  float: right;
+  margin-right: 20%;
+
+}
+.team
+{
+  overflow:hidden;
+  border-radius:100%;
+  width:15%;
+  height:15%;
+}
+.happy_customers
+{
+
+  padding: 8%;
+
+}
+.blue2
+{
+  font-family: "Bitstream Charter";
+  font-size: 50px;
+  color: #42ADD7;
+  text-align: center;
+}
+
+.p_happy
+{
+  text-align: center;
+}
+
+.happy
+{
+  overflow:hidden;
+  border-radius:100%;
+  width:70%;
+}
+
+td
+{
+  padding: 0 5% 0 5%;
+  text-align: center;
+}
+
+.p_table_happy
+{
+  color: orange;
+}
+
+span
+{
+  color: grey;
+}
+
+.p_table
+{
+  font-style: italic;
+  font-family: "Bitstream Charter";
+  color: grey;
+}
